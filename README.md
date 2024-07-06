@@ -1,20 +1,9 @@
-<br clear="both">
-
 <h2 align="left">About Me</h2>
 
-###
+<h4 align="left">-Python Developer<br>-Analista de Dados Jr</h4>
 
-<br clear="both">
-
-<p align="left">-Python Developer<br>-Analista de Dados Jr</p>
-
-###
 
 <h2 align="left">Techs</h2>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -22,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
 </div>
 
 ###
