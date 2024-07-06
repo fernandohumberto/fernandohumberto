@@ -1,9 +1,6 @@
-<h2 align="left">About Me</h2>
-
-<h4 align="left">-Python Developer<br>-Analista de Dados Jr</h4>
-
-
-<h2 align="left">Techs</h2>
+<h2 align="left">Sobre Mim</h2>
+<h4>-Desenvolvedor Python <br> -Analista de Dados Junior </h4>
+<h2 align="left">Tecnologias </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
