@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
 </div>
-<h2 align="left">States</h2>
+<h2 align="left">Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandohumberto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandohumberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="180" alt="languages graph"  />
